@@ -1,0 +1,24 @@
+// Documentación de JavaScript --> https://developer.mozilla.org/es/docs/Web/JavaScript//
+
+//comentario de una linea//
+
+/*
+comentario
+de 
+multiples
+lineas
+*/
+
+var nombre = migel;
+let variable = quizas;
+const pi = "3,1416";
+
+let bool = true
+let _null = null
+let _undefined = undefined
+let number = 24
+let float = 3.1416
+let bigint = 9007199254740992n
+let str = 'Hola mundo'
+
+console.log('Hola JavaScrip');
